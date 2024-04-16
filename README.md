@@ -3,7 +3,7 @@ This project provides an API for creating and reading timestamped text files.
 
 Installation
 Clone the repository:
-git clone https://github.com/Yahinisekar/fs-timeStamp
+git clone https://github.com/Prasanth-FSD/fs-timeStamp
 cd fs-timeStamp
 The server will start running on port 4000 by default.
 
